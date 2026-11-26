@@ -1,7 +1,6 @@
 {
   "pack": {
     "description": "textur pak",
-    "min_format": 97.1,
-    "max_format": 97.1
+    "pack_format": 1
   }
 }
